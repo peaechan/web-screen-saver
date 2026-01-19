@@ -4,15 +4,17 @@ Windows screensaver that iterates through a list of URLs. Based on [CefSharp](ht
 
 Can be used to display dashboards from different web sites (like Grafana) and/or as a secure way to display information (i.e. kiosk TV mode) 
 
+Full support for HTML5, CSS3, ES6+, and modern web APIs
+
 Dependencies
 ------------
 
- * [Microsoft Visual C++ for Visual Studio 2015, 2017 and 2019 - x86](https://aka.ms/vs/16/release/vc_redist.x86.exe)
-* .Net Version 4.5.2+ (shipped with Windows 10)
+* Microsoft Visual C++ 2015-2022 Redistributable (x64)
+* Microsoft .Net Framework 4.8
 
 Installation
 ----------------------
-Download WebScreenSaver-x.x.x.zip from [releases](https://github.com/pgnunes/web-screen-saver/releases) and extract it (i.e. user home). Right click on ```WebScreenSaver.scr``` and select 'install'. 
+Download web-screen-saver-x.x.7z from [releases](https://github.com/peaechan/web-screen-saver/releases) and extract it (i.e. user home). Right click on ```WebScreenSaver.scr``` and select 'install'. 
 
 *NOTE:* Keep the folder and its contents as the screensaver requires all existent files to run.
 
